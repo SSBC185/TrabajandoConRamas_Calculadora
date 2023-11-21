@@ -1,3 +1,3 @@
-function sumar(a,b) {
-    return
+function restar(a,b) {
+    return a-b
 }
